@@ -1,0 +1,3 @@
+확률적 경사하강법 vs 배치 경사하강법
+https://blog.naver.com/qbxlvnf11/221386939202
+
